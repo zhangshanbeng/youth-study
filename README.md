@@ -1,5 +1,7 @@
 # 青年大学习截图收集
 
+2022.3.13 Notes: Tencent Docs recently launched a one-click export attachment function, so this repository is outdated.
+
 批量下载青年大学习截图，节约时间（团支书必备）
 
 #### 1. 收集表设置
